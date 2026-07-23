@@ -1,6 +1,6 @@
-# Verilog Leaner Community
+# Verilog Learner Community
 
-Welcome to **Verilog Leaner Community**! 
+Welcome to **Verilog Learner Community**! 
 
 This repository is built for anyone interested in learning **Verilog HDL** through examples, explanations, and hands-on practice. Whether you're a beginner or an experienced developer, you're welcome to contribute and help others learn.
 
@@ -42,5 +42,6 @@ After review, your contribution will be merged.
 If you're looking to make your **first open-source contribution**, this repository is a great place to start. Code examples, bug fixes, and new learning materials are all welcome.
 
 Let's learn Verilog together and build a helpful resource for the community.
+
 
 **Happy Coding! Happy Learning!** 🎉 
